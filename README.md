@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariev-asheaa&label=Profile%20views&color=0e75b6&style=flat" alt="mariev-asheaa" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **marievaheaa170@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
