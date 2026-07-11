@@ -14,7 +14,7 @@ Building cross-platform apps end-to-end — from clean, scalable architecture to
 ### 🔭 What I've been building
 
 -  **Thamara** — AI-powered plant disease detection app (Flutter, Cubit, Clean Architecture, CNN integration, Arabic/English RTL localization)
--  **Hykaity (حكايتي)** — AI-powered personalized children's storytelling app with PayPal payment integration
+-  **Hykaity** — AI-powered personalized children's storytelling app with PayPal payment integration
 -  **Efraho** — Real-time camp management app using Firebase Firestore
 -  **Route Tracking App** — Real-time location tracking with Google Maps & Places API
 
