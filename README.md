@@ -1,51 +1,30 @@
 <h1 align="center">Hi 👋, I'm Mariev Asheaa</h1>
 <h3 align="center">Flutter Developer specializing in Clean Architecture, BLoC/Cubit, and AI-powered mobile apps</h3>
-
-<p align="center">
-Building cross-platform apps end-to-end — from clean, scalable architecture to real-time features and API integrations. 
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mariev-asheaa&label=Profile%20views&color=0e75b6&style=flat" alt="mariev-asheaa" />
-</p>
-
----
-
-### 🔭 What I've been building
-
--  **Thamara** — AI-powered plant disease detection app (Flutter, Cubit, Clean Architecture, CNN integration, Arabic/English RTL localization)
--  **Hykaity** — AI-powered personalized children's storytelling app with PayPal payment integration
--  **Efraho** — Real-time camp management app using Firebase Firestore
--  **Route Tracking App** — Real-time location tracking with Google Maps & Places API
-
-### 💼 Experience
-
-- **Flutter Developer Intern @ ExploitUs** — mobile security training platform (Clean Architecture, Cubit, Dependency Injection)
-- **Flutter Developer Intern @ Codebase Solutions** — health & fitness mobile applications (UI development, REST API integration)
-
-### 🛠️ Languages & Tools
-
 <p align="left">
-<a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-</p>
+I'm a Software Engineer passionate about building cross-platform mobile applications from end to end—from designing clean, scalable architectures to implementing real-time features and API integrations. My GitHub portfolio highlights projects that demonstrate my technical skills, problem-solving mindset, and ability to collaborate effectively. I continuously seek opportunities to learn, improve, and create impactful software that delivers great user experiences.</p>
 
-**Core skills:** Flutter · Dart · Cubit/BLoC · Clean Architecture · Dependency Injection (Get_it, Injectable) · REST API Integration · Firebase (Firestore, Messaging) · Payment Integration (Stripe, PayPal) · Localization (Arabic/English, RTL) · Git & GitHub
+# 🌐 Connect With Me:
+<div class="container" style="height: 400px;">
 
-### 📊 GitHub Stats
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mariev-asheaa)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:marievaheaa170@gmail.com)
+</div>
 
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariev-asheaa&show_icons=true&locale=en&layout=compact" alt="mariev-asheaa" />
-</p>
+# 💻 Tech Stack:
 
-<br clear="left"/>
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Dart](https://skillicons.dev/icons?i=dart)
+![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
+![firebase](https://skillicons.dev/icons?i=firebase)
+![supabase](https://skillicons.dev/icons?i=supabase)
+![figma](https://skillicons.dev/icons?i=figma)
+![postman](https://skillicons.dev/icons?i=postman)
+![git](https://skillicons.dev/icons?i=git)
+![github](https://skillicons.dev/icons?i=github)
 
-### 📫 Let's connect
 
-<p align="left">
-<a href="https://linkedin.com/in/mariev-asheaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariev-asheaa" height="30" width="40" /></a>
-</p>
+# 📊 GitHub Stats
 
-📧 **marievaheaa170@gmail.com**
+![](https://github-readme-stats.vercel.app/api?username=mariev-asheaa&show_icons=true&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariev-asheaa&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariev-asheaa&theme=blueberry&hide_border=true&layout=compact)
