@@ -6,7 +6,7 @@ I'm a Software Engineer passionate about building cross-platform mobile applicat
 # 🌐 Connect With Me:
 <div class="container" style="height: 400px;">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/mariev-asheaa-85220b2b3)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mariev-asheaa-85220b2b3/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:marievaheaa170@gmail.com)
 </div>
 
