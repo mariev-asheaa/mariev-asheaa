@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariev Asheaa</h1>
 <h3 align="center">Mobile Application developer (flutter) | Android & IOS</h3>
 <p align="left">
-I'm a Software Engineer passionate about building cross-platform mobile applications from end to end—from designing clean, scalable architectures to implementing real-time features and API integrations. My GitHub portfolio highlights projects that demonstrate my technical skills, problem-solving mindset, and ability to collaborate effectively. I continuously seek opportunities to learn, improve, and create impactful software that delivers great user experiences.</p>
+I'm a Software Engineer specialized in building cross platform mobile applications from end to end from designing clean, scalable architectures to implementing real time features and API integrations. My GitHub portfolio highlights projects that demonstrate my technical skills, problem-solving mindset, and ability to collaborate effectively. I continuously seek opportunities to learn, improve, and create impactful software that delivers great user experiences.</p>
 
 # 🌐 Connect With Me:
 <div class="container" style="height: 400px;">
