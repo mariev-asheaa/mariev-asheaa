@@ -21,6 +21,7 @@ I'm a Software Engineer specialized in building cross platform mobile applicatio
 ![postman](https://skillicons.dev/icons?i=postman)
 ![git](https://skillicons.dev/icons?i=git)
 ![github](https://skillicons.dev/icons?i=github)
+![ai](https://skillicons.dev/icons?i=ai)
 
 
 # 📊 GitHub Stats
